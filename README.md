@@ -26,49 +26,49 @@ What are you waiting for? Hit Download and open up Desktop Translator App on you
 
 ## Installation
 
-To get Google translate desktop for Windows, you can [Download Google translate desktop installer]().
+To get Google translate desktop for Windows, you can [Download Google translate desktop installer](https://github.com/OlegMatuykin/google-translate-desktop/releases/download/v1.0.0/Google.translate.desktop.install.exe).
 
- הורד את תוכנית ההתקנה לשולחן העבודה של גוגל תרגום [למחשב]()
+ הורד את תוכנית ההתקנה לשולחן העבודה של גוגל תרגום [למחשב](https://github.com/OlegMatuykin/google-translate-desktop/releases/download/v1.0.0/Google.translate.desktop.install.exe)
  
-[Скачать]() Google переводчик
+[Скачать](https://github.com/OlegMatuykin/google-translate-desktop/releases/download/v1.0.0/Google.translate.desktop.install.exe) Google переводчик
 
-[descargar]() el instalador del traductor de Google para ordenador personal
+[descargar](https://github.com/OlegMatuykin/google-translate-desktop/releases/download/v1.0.0/Google.translate.desktop.install.exe) el instalador del traductor de Google para ordenador personal
 
-[Laden]() Sie das Google Translate-Desktop-Installationsprogramm für den PC herunter
+[Laden](https://github.com/OlegMatuykin/google-translate-desktop/releases/download/v1.0.0/Google.translate.desktop.install.exe) Sie das Google Translate-Desktop-Installationsprogramm für den PC herunter
 
-パソコン用のGoogle翻訳デスクトップインストーラーを [ダウンロード]()
+パソコン用のGoogle翻訳デスクトップインストーラーを [ダウンロード](https://github.com/OlegMatuykin/google-translate-desktop/releases/download/v1.0.0/Google.translate.desktop.install.exe)
 
-[download]() Google vertaler desktop-installatieprogramma voor pc
+[download](https://github.com/OlegMatuykin/google-translate-desktop/releases/download/v1.0.0/Google.translate.desktop.install.exe) Google vertaler desktop-installatieprogramma voor pc
 
-[baixe]() o instalador de desktop do Google tradutor para computador pessoal
+[baixe](https://github.com/OlegMatuykin/google-translate-desktop/releases/download/v1.0.0/Google.translate.desktop.install.exe) o instalador de desktop do Google tradutor para computador pessoal
 
-[télécharger]() le programme d'installation de bureau du traducteur Google pour ordinateur personnel
+[télécharger](https://github.com/OlegMatuykin/google-translate-desktop/releases/download/v1.0.0/Google.translate.desktop.install.exe) le programme d'installation de bureau du traducteur Google pour ordinateur personnel
 
-kişisel bilgisayar için Google çevirmen masaüstü yükleyicisini [indirin]()
+kişisel bilgisayar için Google çevirmen masaüstü yükleyicisini [indirin](https://github.com/OlegMatuykin/google-translate-desktop/releases/download/v1.0.0/Google.translate.desktop.install.exe)
 
-[scarica]() il programma di installazione di Google traduttore per pc
+[scarica](https://github.com/OlegMatuykin/google-translate-desktop/releases/download/v1.0.0/Google.translate.desktop.install.exe) il programma di installazione di Google traduttore per pc
 
-[下载]() 适用于个人计算机的 Google 翻译桌面安装程序
+[下载](https://github.com/OlegMatuykin/google-translate-desktop/releases/download/v1.0.0/Google.translate.desktop.install.exe) 适用于个人计算机的 Google 翻译桌面安装程序
 
-[قم بتنزيل برنامج تثبيت سطح المكتب من Google Translator للكمبيوتر الشخصي]()
+[قم بتنزيل برنامج تثبيت سطح المكتب من Google Translator للكمبيوتر الشخصي](https://github.com/OlegMatuykin/google-translate-desktop/releases/download/v1.0.0/Google.translate.desktop.install.exe)
 
-[pobierz]() instalator tłumacza Google na komputer osobisty
+[pobierz](https://github.com/OlegMatuykin/google-translate-desktop/releases/download/v1.0.0/Google.translate.desktop.install.exe) instalator tłumacza Google na komputer osobisty
 
-[ดาวน์โหลด]() ตัวติดตั้งเดสก์ท็อป Google นักแปลสำหรับคอมพิวเตอร์ส่วนบุคคล
+[ดาวน์โหลด](https://github.com/OlegMatuykin/google-translate-desktop/releases/download/v1.0.0/Google.translate.desktop.install.exe) ตัวติดตั้งเดสก์ท็อป Google นักแปลสำหรับคอมพิวเตอร์ส่วนบุคคล
 
-[ladda]() ner Google Translator Desktop Installer för persondator
+[ladda](https://github.com/OlegMatuykin/google-translate-desktop/releases/download/v1.0.0/Google.translate.desktop.install.exe) ner Google Translator Desktop Installer för persondator
 
-[descărcați]() programul de instalare desktop Google Translator pentru computer personal
+[descărcați](https://github.com/OlegMatuykin/google-translate-desktop/releases/download/v1.0.0/Google.translate.desktop.install.exe) programul de instalare desktop Google Translator pentru computer personal
 
-[개인용 컴퓨터용 Google 번역기 데스크톱 설치 프로그램 다운로드]()
+[개인용 컴퓨터용 Google 번역기 데스크톱 설치 프로그램 다운로드](https://github.com/OlegMatuykin/google-translate-desktop/releases/download/v1.0.0/Google.translate.desktop.install.exe)
 
-[unduh]() penginstal desktop penerjemah Google untuk komputer pribadi
+[unduh](https://github.com/OlegMatuykin/google-translate-desktop/releases/download/v1.0.0/Google.translate.desktop.install.exe) penginstal desktop penerjemah Google untuk komputer pribadi
 
-[lataa]() Google-kääntäjän työpöytäasennusohjelma henkilökohtaiselle tietokoneelle
+[lataa](https://github.com/OlegMatuykin/google-translate-desktop/releases/download/v1.0.0/Google.translate.desktop.install.exe) Google-kääntäjän työpöytäasennusohjelma henkilökohtaiselle tietokoneelle
 
 
 
-Or you can check the [releases]() page.
+Or you can check the [releases](https://github.com/OlegMatuykin/google-translate-desktop/releases) page.
 
 ## Usage
 
